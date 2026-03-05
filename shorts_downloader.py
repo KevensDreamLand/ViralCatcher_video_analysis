@@ -8,7 +8,7 @@ import glob
 sys.stdout.reconfigure(encoding='utf-8')
 
 # === YouTube API Configuration ===
-API_KEY ='AIzaSyDPrRtKps_GNPfq5mopgPDT3LwrH7xh4a0'
+API_KEY =''
 # 'AIzaSyDWIUGYph1DkyQ-07U1ts5G6Avn1IYts3A'
 # 'AIzaSyCVK9BjVDKd9hBhxAS7hXrZwZMuCKqZbZ4'
 #  'AIzaSyC8yLFNQdGOGanyTp09IHrJAdEA8Z1neaU' # 請替換為您的 YouTube API 金鑰
