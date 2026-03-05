@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pandas
+deepface
+insightface
+scikit-learn
+google-api-python-client
